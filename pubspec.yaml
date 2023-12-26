@@ -1,0 +1,10 @@
+name: charter_analysis
+description: Lint rules for Dart and Flutter used internally in the Charter Project.
+version: 1.0.0
+repository: https://github.com/charter-projects/charter-analysis
+
+environment:
+  sdk: ^3.1.2
+
+dev_dependencies:
+  commitlint_cli: ^0.7.1
